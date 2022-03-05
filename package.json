@@ -1,0 +1,24 @@
+{
+  "name": "@guzmanlab/configuration",
+  "version": "1.0.0",
+  "description": "A small package for Edgar Guzman or anybody who want to test/use this package.",
+  "main": "package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node package.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgar-guzman/configuration.git"
+  },
+  "keywords": [
+    "config",
+    "configuration"
+  ],
+  "author": "Edgar Guzman (https://landing.edgarguzman.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edgar-guzman/configuration/issues"
+  },
+  "homepage": "https://github.com/edgar-guzman/configuration#readme"
+}
